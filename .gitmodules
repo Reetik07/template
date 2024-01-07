@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Reetik07/backend.git
+[submodule "auth-ui"]
+	path = auth-ui
+	url = https://github.com/Reetik07/auth-ui.git
+[submodule "demo-dashboard"]
+	path = demo-dashboard
+	url = https://github.com/Reetik07/demo-dashboard.git
